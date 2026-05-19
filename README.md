@@ -3,11 +3,6 @@
 # 💫 About Me:
 I'm a third year Computer Science student at Western University, I enjoy coding, tackling complex challenges, and learning about the evolving tech industry.
 
-## 🚀 What I'm Up To
-- 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
-- 💻 Building & improving a chess engine while learning C++
-- Check out my [coding portfolio!](https://marksmwl.github.io/)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mark-samwaiel) 
 
